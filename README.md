@@ -1,7 +1,7 @@
 ## Hi there 👋
-### I am a passionate data scientist with over 1.9 years of experience in leveraging machine learning and deep learning techniques to solve real-world problems. My expertise lies in data-driven decision-making, predictive modeling, and advanced computer vision applications.
+## I am a passionate data scientist with over 1.9 years of experience in leveraging machine learning and deep learning techniques to solve real-world problems. My expertise lies in data-driven decision-making, predictive modeling, and advanced computer vision applications.
 
-🔑 Key Skills:
+## 🔑 Key Skills:
 ### . Programming Languages: Python, SQL
 ### . Machine Learning: Random Forest, XGBoost, K-Means, Decision Trees
 ### . Deep Learning: Convolutional Neural Networks (CNN), Transfer Learning, TensorFlow, Keras
